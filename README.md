@@ -6,7 +6,8 @@ Este projeto consiste no desenvolvimento de um controle de alunos para motorista
   - Criação, listagem e exclusão
 - Controle de alunos:
   - Criação, atualização, listagem e exclusão
-- Extração de relatórios.
+- Extração de relatórios;
+- Login de usuários.
 
 ### Features do Node
 
