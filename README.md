@@ -1,5 +1,8 @@
 # Controle de alunos
 
+[Back-end](https://github.com/JeanCigoli/control-students-api) |
+[Front-end](https://github.com/JeanCigoli/control-students-front)
+
 Este projeto consiste no desenvolvimento de um controle de alunos para motoristas escolares, nele tem as seguintes funcionalidades:
 
 - Controle de turmas:
